@@ -1,0 +1,4 @@
+{
+  "sourcekit-lsp.inlayHints.enabled": true,
+  "swift.buildArguments": ["--triple", "wasm32-unknown-wasi"]
+}
